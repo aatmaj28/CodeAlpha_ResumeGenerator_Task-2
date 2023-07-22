@@ -1,1 +1,2 @@
 # CodeAlpha_ResumeGenerator_Task-2
+It is a project focusing on building a resume generator tool. In this task, the objective is to develop a program or application that enables users to create professional resumes by entering their information and selecting templates. The project may involve aspects such as form input validation, template design, and document generation to produce well-formatted and personalized resumes for users. 
